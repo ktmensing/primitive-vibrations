@@ -1,0 +1,26 @@
+h1 {
+  font-family: 'Rock Salt', cursive;
+}
+
+.header_top {
+  margin-bottom: -42px;
+}
+
+.header_bottom {
+  margin-top: -42px;
+}
+
+body {
+  margin: 5em;
+  background-color: #c58139;
+   background: -webkit-linear-gradient(0.5turn, #6bd0a4, #ae866a);
+}
+
+img {
+  width: 50vw;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  margin-bottom: 10vh;
+  margin-right: 12vw;
+}
